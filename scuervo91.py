@@ -47,7 +47,7 @@ So far, next are the packages already published on pypi to be used.
 """
 
 panel = Panel.fit(
-    about, box=box.DOUBLE, border_style="blue", title="[b]Hi there", width=60
+    about, box=box.DOUBLE, border_style="blue", title="[b]About", width=60
 )
 
 
