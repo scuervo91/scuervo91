@@ -13,4 +13,7 @@ jobs:
           python-version: 3.x
       - run: pip install rich
       - run: python scuervo91.py
-      - run: ls
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
