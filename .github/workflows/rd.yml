@@ -13,3 +13,4 @@ jobs:
           python-version: 3.x
       - run: pip install rich
       - run: python scuervo91.py
+      - run: ls
