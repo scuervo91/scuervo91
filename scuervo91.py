@@ -46,6 +46,9 @@ So far, next are the packages already published on pypi to be used.
 
 * [link=https://github.com/scuervo91/dcapy]Dcapy - Decline Curve Analysis
 * [link=https://github.com/scuervo91/wellschematicspy]WellschematicsPy" - Simple Well Schematics viewer on Matplotlib
+* [link=https://github.com/scuervo91/pvtpy]PvtPy" - Pvt Oil&Gas Fluids Characterization
+* [link=https://github.com/scuervo91/volumetricspy]Volumetricspy" - Volumetrics Calculation and Geospatial Analysis
+* [link=https://github.com/scuervo91/fieldspy]Fieldspy" - Wells and Logs Management and Analysis
 """
 
 panel = Panel.fit(
