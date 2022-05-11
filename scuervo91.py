@@ -40,7 +40,7 @@ workflows on different Python Packages. These workflows aim to cover most of the
 * Simulation
 
 All workflows have been implemented on the [link=https://github.com/scuervo91/reservoirpy]Reservoirpy repository. However,
-these workflows are goint to have their own repository/package for better maintenance and documentation. 
+these workflows are going to have their own repository/package for better maintenance and documentation. 
 
 So far, next are the packages already published on pypi to be used.
 
