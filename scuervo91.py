@@ -10,6 +10,8 @@ tree =  Tree("Santiago Cuervo", guide_style="bold green")
 res_tree = tree.add(":oil_drum: Integral Reservoir Engineer")
 dev_tree = tree.add(":computer: Developer")
 python_tree = dev_tree.add(":snake: Python")
+python_tree = dev_tree.add(":snake: SQL")
+python_tree = dev_tree.add(":snake: API")
 python_tree.add(":star2:[link=https://github.com/scuervo91/fieldspy]Fieldspy")
 python_tree.add(":star2:[link=https://github.com/scuervo91/dcapy]Dcapy")
 python_tree.add(":star2:[link=https://github.com/scuervo91/wellschematicspy]WellschematicsPy")
@@ -38,6 +40,8 @@ workflows on different Python Packages. These workflows aim to cover most of the
 * Material Balance
 * Pvt
 * Simulation
+* Relative Permeabilities
+* Data Bases
 
 All workflows have been implemented on the [link=https://github.com/scuervo91/reservoirpy]Reservoirpy repository. However,
 these workflows are going to have their own repository/package for better maintenance and documentation. 
